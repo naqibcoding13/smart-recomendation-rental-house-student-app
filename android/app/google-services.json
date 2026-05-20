@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930229258733",
+    "project_id": "smart-rental-apps",
+    "storage_bucket": "smart-rental-apps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930229258733:android:193131e979fb234b5dffe4",
+        "android_client_info": {
+          "package_name": "com.example.rental_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSQAUH34KvVi_khN0fVEGLDUpsWmTpAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930229258733:android:b7c35aaeabbb36b35dffe4",
+        "android_client_info": {
+          "package_name": "com.example.smart_rental_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSQAUH34KvVi_khN0fVEGLDUpsWmTpAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
